@@ -1,1 +1,1 @@
-# dnf_update_file_server
+# dnf 更新 pvf 与登录器的 server。
